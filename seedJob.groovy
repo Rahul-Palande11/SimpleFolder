@@ -1,5 +1,5 @@
 folder('JobDsl') {
-    freeStyleJob('JobDsl/folder') {
+    freeStyleJob('JobDsl/JobDsl_example') {
         scm {
             git {
                 branch('main')
